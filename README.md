@@ -80,7 +80,7 @@ The interactive dashboard contains three analytical pages:
 ### Dashboard Screenshots
 
 #### Executive Overview
-![Executive Overview](screenshots/Executive_Overview.png)
+![Executive Overview](https://github.com/vinayydv2025-del/Telecom-Customer-Churn-Analytics/blob/main/screenshots/01_Executive_Overview.png)
 
 #### Customer Risk & Behavior
 ![Customer Risk & Behavior](screenshots/Customer_Risk_Behavior.png)
