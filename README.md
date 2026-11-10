@@ -83,7 +83,7 @@ The interactive dashboard contains three analytical pages:
 ![Executive Overview](https://github.com/vinayydv2025-del/Telecom-Customer-Churn-Analytics/blob/main/screenshots/01_Executive_Overview.png)
 
 #### Customer Risk & Behavior
-![Customer Risk & Behavior](screenshots/Customer_Risk_Behavior.png)
+![Customer Risk & Behavior](https://github.com/vinayydv2025-del/Telecom-Customer-Churn-Analytics/blob/main/screenshots/02_Customer_Risk_Behavior.png)
 
 #### Retention Strategy
 ![Retention Strategy](screenshots/Retention_Strategy.png)
