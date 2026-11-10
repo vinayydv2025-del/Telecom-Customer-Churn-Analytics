@@ -1,0 +1,19 @@
+service,service_status,total_customers,churned_customers,churn_rate
+onlinesecurity,No,3498.0,1461.0,41.76672384219554
+onlinesecurity,No internet service,1526.0,113.0,7.404980340760157
+onlinesecurity,Yes,2019.0,295.0,14.611193660227837
+onlinebackup,No,3088.0,1233.0,39.92875647668394
+onlinebackup,No internet service,1526.0,113.0,7.404980340760157
+onlinebackup,Yes,2429.0,523.0,21.531494442157268
+deviceprotection,No,3095.0,1211.0,39.127625201938606
+deviceprotection,No internet service,1526.0,113.0,7.404980340760157
+deviceprotection,Yes,2422.0,545.0,22.50206440957886
+techsupport,No,3473.0,1446.0,41.63547365390153
+techsupport,No internet service,1526.0,113.0,7.404980340760157
+techsupport,Yes,2044.0,310.0,15.166340508806261
+streamingtv,No,2810.0,942.0,33.52313167259787
+streamingtv,No internet service,1526.0,113.0,7.404980340760157
+streamingtv,Yes,2707.0,814.0,30.070188400443293
+streamingmovies,No,2785.0,938.0,33.680430879712745
+streamingmovies,No internet service,1526.0,113.0,7.404980340760157
+streamingmovies,Yes,2732.0,818.0,29.941434846266475

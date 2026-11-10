@@ -1,0 +1,5 @@
+monthly_charge_group,total_customers,churned_customers,churn_rate
+Low Charges,1735,189,10.893371757925072
+Medium Charges,1725,413,23.942028985507246
+High Charges,2681,1014,37.82170831779187
+Very High Charges,902,253,28.04878048780488

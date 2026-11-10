@@ -1,0 +1,16 @@
+contract,tenure_group,total_customers,churned_customers,churn_rate
+Month-to-month,0-12 Months,1994,1024,51.35406218655968
+Month-to-month,13-24 Months,737,278,37.720488466757125
+Month-to-month,25-48 Months,802,264,32.917705735660846
+Month-to-month,49-60 Months,234,65,27.77777777777778
+Month-to-month,61-72 Months,108,24,22.22222222222222
+One year,0-12 Months,124,13,10.483870967741936
+One year,13-24 Months,197,16,8.121827411167512
+One year,25-48 Months,518,55,10.617760617760617
+One year,49-60 Months,321,44,13.707165109034266
+One year,61-72 Months,313,38,12.140575079872203
+Two year,0-12 Months,68,0,0.0
+Two year,13-24 Months,90,0,0.0
+Two year,25-48 Months,274,6,2.18978102189781
+Two year,49-60 Months,277,11,3.9711191335740073
+Two year,61-72 Months,986,31,3.1440162271805274
